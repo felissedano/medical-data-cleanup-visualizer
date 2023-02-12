@@ -3,5 +3,11 @@ A data clean up + data visualization program that process simulated raw medical 
 
 
 ### How to run:
-'''
-python3 initial-clean.py'''
+```
+python3 initial-clean.py
+```
+then
+```
+python3 time-series.py
+```
+
